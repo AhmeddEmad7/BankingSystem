@@ -1,4 +1,4 @@
 ## Banking System
--A simple GUI banking system program based on OOP concepts
+-A simple GUI banking system program based on OOP concepts.
 
--Project is built using Java programming language on Eclipse working space
+-Project is built using Java programming language on Eclipse working space.
